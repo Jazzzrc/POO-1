@@ -3,6 +3,10 @@
 
 using namespace std;
 
+
+// El siguiente codigo sirve para encontrar la calificación más baja y la media
+
+
 int main() {
     int cantidadestu, i, nota;
     int calificacion, menor, media, suma;

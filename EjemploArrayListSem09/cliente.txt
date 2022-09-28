@@ -1,0 +1,7 @@
+1;Marengo Cribilleros Mario;Calle Arica 245;16532636
+2;Panta Panta Jorge;Calle Arica 245;16532636
+3;Diaz Arenas Oscar;Calle Arica 245;16532636
+4;Diaz Marengo Daniel;Calle Arica 245;16532636
+5;Diaz Arenas Daniel;Calle Arica 245;16532636
+6;Marengo Espinoza Juan Jose;Calle Arica 245;16532636
+7;Velarde Olivera Jorge;Calle Arica 245;16532636

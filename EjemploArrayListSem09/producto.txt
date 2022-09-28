@@ -1,0 +1,6 @@
+1;PLACA MADRE INTEL G34;120.0;50
+2;DISCO DURO DIZMA 5TB;150.0;60
+3;PLACA DIZMA T34;80.0;50
+4;placa hp u89;250.0;20
+5;Disco solido dizma 5tb;300.0;20
+6;placa  intel;125.0;20
